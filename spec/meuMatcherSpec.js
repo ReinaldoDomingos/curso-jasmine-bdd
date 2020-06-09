@@ -1,6 +1,6 @@
 var meuMatcher = {
     toBeValidEmail: function (util, customEqualityTester) {
-        var emailRegex = /\s+@\s+\.\s+/
+        var emailRegex = /\S+@\S+\.\S+/;
 
         return {
             compare: function (actual, expect) {
@@ -29,6 +29,6 @@ describe("Testes do objeto jasmine.addMatchers", function () {
 
     it("Deve verificar se um email é valido", function () {
         expect("email@dominio.com").toBeValidEmail()
-        expect("email").toBeValidEmail()
+        expect("email").not.toBeValidEmail()
     })
 })
