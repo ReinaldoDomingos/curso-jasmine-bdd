@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52f4be72-778b-4e01-8847-53182d6354f4" name="Default Changelist" comment="Mudando estrutura das subpastas">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/lib/jasmine_examples/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/lib/jasmine_examples/Song.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/.bin/jasmine" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/balanced-match/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/balanced-match/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/balanced-match/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/balanced-match/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/balanced-match/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/brace-expansion/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/brace-expansion/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/brace-expansion/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/brace-expansion/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/README.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/example/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/concat-map/test/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/fs.realpath/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/fs.realpath/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/fs.realpath/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/fs.realpath/old.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/fs.realpath/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/glob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/glob/sync.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inflight/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inflight/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inflight/inflight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inflight/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/.github/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/.ruby-version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/MIT.LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/RELEASE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/images/jasmine-horizontal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/images/jasmine-horizontal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/images/jasmine_favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/jasmine_core.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/jasmine_core.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/jasmine_core.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/jasmine_core.egg-info/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/jasmine_core.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/boot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/node_example/lib/jasmine_examples/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/node_example/lib/jasmine_examples/Song.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/node_example/spec/helpers/jasmine_examples/SpecHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/node_example/spec/jasmine_examples/PlayerSpec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/spec/PlayerSpec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/spec/SpecHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/src/Player.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/example/src/Song.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/jasmine-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/jasmine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/json2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/lib/jasmine-core/node_boot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine-core/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/MIT.LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/bin/jasmine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/lib/command.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/lib/examples/jasmine.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/lib/filters/console_spec_filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/lib/jasmine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/lib/reporters/completion_reporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/lib/reporters/console_reporter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/jasmine/tasks/jasmine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/minimatch/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/minimatch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/minimatch/minimatch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/minimatch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/once/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/once/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/once/once.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/once/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/path-is-absolute/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/path-is-absolute/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/path-is-absolute/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/path-is-absolute/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/wrappy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/wrappy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/wrappy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/node_modules/wrappy/wrappy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/spec/exemplo/exemploSpec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/spec/helpers/jasmine_examples/SpecHelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/spec/jasmine_examples/PlayerSpec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jasmine-node/spec/support/jasmine.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MIT.LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/básico/MIT.LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpecRunner.html" beforeDir="false" afterPath="$PROJECT_DIR$/básico/SpecRunner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jasmine-3.5.0/boot.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/lib/jasmine-3.5.0/boot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jasmine-3.5.0/jasmine-html.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/lib/jasmine-3.5.0/jasmine-html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jasmine-3.5.0/jasmine.css" beforeDir="false" afterPath="$PROJECT_DIR$/básico/lib/jasmine-3.5.0/jasmine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jasmine-3.5.0/jasmine.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/lib/jasmine-3.5.0/jasmine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jasmine-3.5.0/jasmine_favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/básico/lib/jasmine-3.5.0/jasmine_favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/afterEachSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/afterEachSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/aninharSuitesSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/aninharSuitesSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/beforeAllSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/beforeAllSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/beforeEachSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/beforeEachSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/expectSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/expectSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/failSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/failSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/meuMatcherSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/meuMatcherSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/spySpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/spySpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/suiteSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/suiteSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/testeSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/testeSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeDefinedSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeDefinedSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeFalsySpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeFalsySpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeGreaterThanSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeGreaterThanSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeLessThanSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeLessThanSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeNullSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeNullSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeTruthySpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeTruthySpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toBeUndefinedSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toBeUndefinedSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toContainSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toContainSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toEqualSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toEqualSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toMatchSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toMatchSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toThrowErrorSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toThrowErrorSpec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/toThrowSpec.js" beforeDir="false" afterPath="$PROJECT_DIR$/básico/spec/toThrowSpec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1d5gkgaNlELeNijNIaGiiuhkXr6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spec" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spec" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52f4be72-778b-4e01-8847-53182d6354f4" name="Default Changelist" comment="" />
+      <created>1591720513218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591720513218</updated>
+      <workItem from="1591720515899" duration="6952000" />
+      <workItem from="1591727633331" duration="202000" />
+      <workItem from="1591727847010" duration="2192000" />
+    </task>
+    <task id="LOCAL-00001" summary="Aprendendo jasmine">
+      <created>1591720938759</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591720938759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Aprendendo jasmine">
+      <created>1591726477697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591726477697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Aprendendo jasmine">
+      <created>1591726749631</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591726749631</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Mudando estrutura das subpastas">
+      <created>1591727281810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591727281810</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aprendendo jasmine" />
+    <MESSAGE value="Mudando estrutura das subpastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudando estrutura das subpastas" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591727679436">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="141" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1591727679436" />
+    <state x="278" y="119" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1591727284062">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="278" y="119" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1591727284062" />
+  </component>
+</project>
